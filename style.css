@@ -1,0 +1,53 @@
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+table{
+    margin:auto;
+    margin-top: 23px;
+    
+}
+h1{
+    font-size: 40px;
+}
+.main{
+    border:2px solid black;
+    display: inline-block;
+    padding: 20px;
+    background-color: gray;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    
+    
+}
+.output{
+    height: 70px;
+    width: 390px;
+    /* border-radius: 30px; */
+    font-size: 35px;
+    box-shadow: 2px 2px;
+    background-color: black;
+    color: white;
+    
+}
+.result{
+    height: 70px;
+    width: 390px;
+    /* border-radius: 30px; */
+    font-size: 35px;
+    box-shadow: 2px 2px;
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: lightgray;
+    height: 72px;
+    font-size: 41px;
+    width: 94px;
+    border-radius: 30px;
+    box-shadow: 2px 2px
+}
+.equal button{
+    background-color: orange;
+}
